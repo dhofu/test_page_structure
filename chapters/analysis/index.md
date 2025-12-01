@@ -9,8 +9,8 @@ This is where we collect and interpret evidence about our topic.
 
 ## Subchapters
 
-- [Evidence](/chapters/analysis/evidence)
-- [Interpretation](/chapters/analysis/interpretation)
+- [Evidence](/test_page_structure/chapters/analysis/evidence)
+- [Interpretation](/test_page_structure/chapters/analysis/interpretation)
 
-[Back to Home](/test_pages_structure)
-[Back to Chapters](/chapters)
+[Back to Home](/test_page_structure)
+[Back to Chapters](/test_page_structure/chapters)
