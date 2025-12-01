@@ -11,7 +11,7 @@ This is a GitHub Pages site using Markdown and Jekyll.
 
 - [About The Project](/about)
 - [News Blog](/blog)
-- [Chapters](/projects)
+- [Chapters](/chapters)
 
 ## Latest Updates
 
