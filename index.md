@@ -9,7 +9,7 @@ This is a GitHub Pages site using Markdown and Jekyll.
 
 ## Quick Links
 
-- [About The Project](/test_page_tructure/about.md)
+- [About The Project](/test_page_structure/about.md)
 - [News Blog](/test_page_structure/blog)
 - [Chapters](/test_page_structure/chapters)
 
