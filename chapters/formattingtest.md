@@ -101,15 +101,15 @@ The sky is blue.
 
 <i> And we're done with the sentence! Now lets make the footnote! </i>
 
-[A]This is a footnote
+[A]Sometimes it's not.
 
 <i> Superscript it, </i>
 
-<sup>[A]</sup> This is a footnote
+<sup>[A]</sup> Sometimes it's not.
 
 <i> And from here, we simply repeat what we did before, but flip it! We put the flag id="footnote" in the superscript, and make our hyperlink lead to href="#flag" </i>
 
-<sup id="footnote">[<a href="#flag">A</a>]</sup> This is a footnote.
+<sup id="footnote">[<a href="#flag">A</a>]</sup> Sometimes it's not.
 
 <i> Tada! Basic html and I feel like such a wizard.</i>
 
