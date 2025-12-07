@@ -11,6 +11,9 @@ title: Chapters
 
 ## Information
 This is a silly page for me figure out basic interal linking. Ideally, little clickable footnotes that jump around the page.
+NOTE: Did not. work. like it did in . my gist file. thats fine. thats fine. I will figure it out.
+
+This is a sentence that needs a citation. <sup>[<a href="#flag">A</a>]</sup>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -59,4 +62,6 @@ x expound 1 + x. If this were accurately done
 ### Sources
 
 You'll never know I guess.
+
+<section id="flag"><sup>[A]</sup>This is a citation
 
