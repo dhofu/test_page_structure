@@ -17,3 +17,7 @@ this references other website for image- better to upload own copy of picture to
     <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/500px-Ada_Lovelace.jpg?20151219223900" alt="this is a scaled image" width="200" height="320"></th>
   </tr> 
 </table>
+
+The childrensbook _little people - big dreams **Ada Locelace**_ mentions that she had a cat named Mrs. Puff <br>
+![IMG_20250511_104428617](https://github.com/user-attachments/assets/1ce052dc-5e58-4363-9f34-4124478b0dd3) 
+This however is not Mrs. puff. This is my cat leo, an Imposter. 
