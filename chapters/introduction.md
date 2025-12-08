@@ -23,4 +23,4 @@ The childrensbook _little people - big dreams **Ada Locelace**_ mentions that sh
 This however is not Mrs. Puff. This is my cat Leo, an imposter. 
 
 
-<img src="/image/Siege_of_La_Rochelle_1881_Henri_Motte.png" alt="The Siege of La Rochelle occured in 1627, and marked the last large scale Huegenot resistance to the French crown. Also Richelieu was there." width="960" height="546">
+<img src="images/Siege_of_La_Rochelle_1881_Henri_Motte.png" alt="The Siege of La Rochelle occured in 1627, and marked the last large scale Huegenot resistance to the French crown. Also Richelieu was there." width="960" height="546">
