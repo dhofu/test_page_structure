@@ -19,5 +19,5 @@ this references other website for image- better to upload own copy of picture to
 </table>
 
 The childrensbook _little people - big dreams **Ada Locelace**_ mentions that she had a cat named Mrs. Puff <br>
-![IMG_20250511_104428617](https://github.com/user-attachments/assets/1ce052dc-5e58-4363-9f34-4124478b0dd3) alt="this is an image of leo not Mrs. Puff" width="400" height="300"
+<img src="https://github.com/user-attachments/assets/1ce052dc-5e58-4363-9f34-4124478b0dd3" alt="this is an image of leo not Mrs. Puff" width="400" height="300"
 This however is not Mrs. Puff. This is my cat Leo, an imposter. 
