@@ -23,4 +23,4 @@ The childrensbook _little people - big dreams **Ada Locelace**_ mentions that sh
 This however is not Mrs. Puff. This is my cat Leo, an imposter. 
 
 
-[![Watch the video](https://img.youtube.com/vi/4a-ciz3e3y0/hqddefault.jpg)](https://www.youtube.com/watch?v=4a-ciz3e3y0)
+[![Watch the video](https://img.youtube.com/vi/4a-ciz3e3y0/sdddefault.jpg)](https://www.youtube.com/watch?v=4a-ciz3e3y0)
