@@ -21,3 +21,6 @@ this references other website for image- better to upload own copy of picture to
 The childrensbook _little people - big dreams **Ada Locelace**_ mentions that she had a cat named Mrs. Puff <br>
 <img src="https://github.com/user-attachments/assets/1ce052dc-5e58-4363-9f34-4124478b0dd3" alt="this is an image of leo not Mrs. Puff" width="400" height="300">
 This however is not Mrs. Puff. This is my cat Leo, an imposter. 
+
+
+<img src="/image/Siege_of_La_Rochelle_1881_Henri_Motte.png" alt="The Siege of La Rochelle occured in 1627, and marked the last large scale Huegenot resistance to the French crown. Also Richelieu was there." width="960" height="546">
